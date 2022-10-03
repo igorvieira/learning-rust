@@ -10,7 +10,11 @@
 # install dependencies
 cargo install
 
-# run the tests
+# run the examples
 cargo run
+
+or
+
+rustc main.rs && ./main
 ```
 
