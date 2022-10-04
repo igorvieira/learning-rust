@@ -12,9 +12,13 @@ cargo install
 
 # run the examples
 cargo run
-
-or
-
+```
+#### or
+```bash
+# compile and run the file compiled
 rustc main.rs && ./main
 ```
+
+## Biography
+[The Rust Programming Language](https://doc.rust-lang.org/book/)
 
